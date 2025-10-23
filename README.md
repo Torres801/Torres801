@@ -1,7 +1,7 @@
 - 👋 Oh hello, I’m @Torres801
 - 👀 I've been on the programme for 2 year and 1 months  ...
-- 🤖 I have knowledge in python, html and css and Some batch
-- 📫  I'm learning C++
+- 🤖 I have knowledge in python, html and css and Some JavaScript and C++
+- 📫  I'm learning ""
 - ⚡ Fun fact: ? 
 
 <!---
